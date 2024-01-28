@@ -1,1 +1,1 @@
-# Scotiabank-Customer-App-Review-Datathon
+# Scotiabank-Customer-App-Review-Sentiment-Analysis
